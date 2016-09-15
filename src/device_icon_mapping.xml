@@ -1,0 +1,24 @@
+<DeviceSupportList>	
+	<Category>storage</Category>
+	<CategoryDefault>
+		<IconURL>/app/uploads/openauto/xio_logo.png</IconURL>
+	</CategoryDefault>
+	<VendorDefault>
+		<Vendor>XIOTECH</Vendor>
+		<IconURL>/app/uploads/openauto/xio_logo.png</IconURL>
+	</VendorDefault>
+	<Device>
+		<DeviceType>ISE3401</DeviceType>
+		<Vendor>XIOTECH</Vendor>
+		<IconURL>/app/uploads/openauto/xio_array.png</IconURL>
+		<Description>Description</Description>
+		<IsSupported>true</IsSupported>
+	</Device>
+	<Device>
+		<DeviceType>XIOTECH</DeviceType>
+		<Vendor>XIOTECH</Vendor>
+		<IconURL>/app/uploads/openauto/xio_array.png</IconURL>
+		<Description>Description</Description>
+		<IsSupported>true</IsSupported>
+	</Device>
+</DeviceSupportList>
